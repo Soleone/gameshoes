@@ -6,5 +6,5 @@ A simple client for accessing information about "www.gamefaqs.com":www.gamefaqs.
 h3. Installation
 
 # Install Shoes first if not already available
-# Download this project using @git clone CLONE_URL@
+# Download this project using @git clone git://github.com/Soleone/gameshoes.git@
 # Run the main file: @shoes gameshoes.rb@
