@@ -1,0 +1,10 @@
+h2. GameFAQs with Shoes
+
+A simple client for accessing information about "www.gamefaqs.com":www.gamefaqs.com using my gamefaqs ruby library.
+
+
+h3. Installation
+
+# Install Shoes first if not already available
+# Download this project using @git clone CLONE_URL@
+# Run the main file: @shoes gameshoes.rb@
