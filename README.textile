@@ -1,6 +1,6 @@
 h2. GameFAQs with Shoes
 
-A simple client for accessing information about "www.gamefaqs.com":www.gamefaqs.com using my gamefaqs ruby library.
+A simple client for accessing information about "www.gamefaqs.com":www.gamefaqs.com using my gamefaqs "ruby library":http://github.com/Soleone/gamefaqs.
 
 
 h3. Installation
