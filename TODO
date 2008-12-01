@@ -1,4 +1,6 @@
-style:
-  - different elements instead of para
+- styling:
+  - different elements and fonts instead of para
   - more colors
-  - animations
+  - loading animation
+
+- a styled textarea for the full review (or later FAQ) text
