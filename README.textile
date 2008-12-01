@@ -9,7 +9,6 @@ h3. Installation
 # Download this project using @git clone git://github.com/Soleone/gameshoes.git@
 # Run the main file: @shoes gameshoes.rb@
 
+This is what the current version looks like:
 
 !http://i464.photobucket.com/albums/rr9/dennistheisen/gameshoes_01.png!
-
-This is what the current version looks like
